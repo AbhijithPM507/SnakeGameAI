@@ -13,7 +13,7 @@ font = pygame.font.Font('arial.ttf', 25)
 #play(action) -> direction
 #game_iteration
 #is_collision
-
+#lithin jose
 
 class Direction(Enum):
     RIGHT = 1
@@ -154,4 +154,5 @@ class SnakeGameAI:
             
         self.head = Point(x, y)
             
+
 
